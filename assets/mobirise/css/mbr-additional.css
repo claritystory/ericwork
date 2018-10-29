@@ -1911,6 +1911,20 @@ body {
     width: 100% !important;
   }
 }
+.cid-r7T01HOp9y {
+  background: #efefef;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #efefef, #ffffff);
+}
+.cid-r7T01HOp9y .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-r7T01HOp9y .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r7E3iUHYEB {
   background: #efefef;
   padding-top: 60px;
