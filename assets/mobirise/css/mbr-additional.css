@@ -1860,7 +1860,7 @@ body {
   content: '80';
 }
 .cid-r7q4oxfW2E .progress2 .progressbar-number:before {
-  content: '90';
+  content: '80';
 }
 .cid-r7q4oxfW2E .progress3 .progressbar-number:before {
   content: '85';
@@ -1936,47 +1936,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-r7q3fSMzVc .video-block {
-    width: 100% !important;
-  }
-}
-.cid-r7E3iUHYEB {
-  background: #efefef;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #efefef, #cccccc);
-}
-.cid-r7E3iUHYEB .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-r7E3iUHYEB .video-block {
-    width: 100% !important;
-  }
-}
-.cid-r7DRnpphdC {
-  background: #efefef;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-r7DRnpphdC .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-r7DRnpphdC .video-block {
-    width: 100% !important;
-  }
-}
-.cid-r7q3aIEt6h {
-  background: #efefef;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #efefef, #cccccc);
-}
-.cid-r7q3aIEt6h .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-r7q3aIEt6h .video-block {
     width: 100% !important;
   }
 }
